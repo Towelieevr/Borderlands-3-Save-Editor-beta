@@ -12,8 +12,6 @@ In-game save editor plugin for Borderlands 3 on jailbroken PS4s with GoldHEN, by
 
 Grab the zip from [Releases](https://github.com/Towelieevr/Borderlands-3-Save-Editor-beta/releases).
 
-If you use the **Toweliee's Save Editors** installer app, choose **Check for updates online** and it will download new versions from this repo by itself.
-
 ## Install
 
 1. Copy the `GoldHEN` folder from the zip to `/data/GoldHEN/` on your PS4 over FTP (`bl3_editor.prx` goes in `plugins/`; the icon and `bl3_codes.txt` go in `/data/GoldHEN/`).
